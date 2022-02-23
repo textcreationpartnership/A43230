@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Honourable House of Commons assembled in Parliament at Westminster. The humble petition of Robert Heblethwait sometimes preacher of the word by authority of Parliament at Great Snoring in Norfolke. As also a narrative of his grievances concerning the uniust proceedings against him, of some malevolent spirits of the standing committee at Norwich, occasioned by the false and malicious informations of malignant persons in Snoring, and elsewhere. And the Iesuiticall suggestions and complots of the idolatrous delinquent, Edw. Dobbs, with his popish representative Charles Devill.</title>
+            <author>Heblethwaite, Robert, d. 1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43230</idno>
+            <idno type="STC">Wing H1348A</idno>
+            <idno type="STC">ESTC R216846</idno>
+            <idno type="EEBO-CITATION">99828562</idno>
+            <idno type="PROQUEST">99828562</idno>
+            <idno type="VID">32991</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32991)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1965:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Honourable House of Commons assembled in Parliament at Westminster. The humble petition of Robert Heblethwait sometimes preacher of the word by authority of Parliament at Great Snoring in Norfolke. As also a narrative of his grievances concerning the uniust proceedings against him, of some malevolent spirits of the standing committee at Norwich, occasioned by the false and malicious informations of malignant persons in Snoring, and elsewhere. And the Iesuiticall suggestions and complots of the idolatrous delinquent, Edw. Dobbs, with his popish representative Charles Devill.</title>
+                  <author>Heblethwaite, Robert, d. 1648.</author>
+               </titleStmt>
+               <extent>[4], 2 [i.e. 12] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 12 is misnumbered 2.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norwich (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32991:1"/>
+            <p>TO THE HONOVRABLE Houſe of Commons aſſembled in Parliament at <hi>Weſtminſter.</hi>
+            </p>
+            <p>The humble Petition of <hi>Robert Hebleth<g ref="char:EOLhyphen"/>wait,</hi> ſometimes preacher of the word by authority of Parliament at Great <hi>Snoring</hi> in <hi>Norfolke.</hi>
+            </p>
+            <p>As alſo a narrative of his grievances con<g ref="char:EOLhyphen"/>cerning the uniuſt proceedings againſt him, of ſome malevolent ſpirits of the ſtanding Commit<g ref="char:EOLhyphen"/>tee at <hi>Norwich,</hi> occaſioned by the falſe and malicious informations of Malignant perſons in <hi>Snoring,</hi> and elſewhere. And the leſuiticall ſuggeſtions and complots of the idolatrous Delinquent, <hi>Edw. Dobbs,</hi> with his popiſh repreſentative <hi>Charles Devill.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Ecleſ, 3.16.</hi>
+               </bibl>
+               <p>And moreover I ſaw under the ſun the place of iudg<g ref="char:EOLhyphen"/>ment, that wickedneſſe was there, and the place of righteouſneſſe, that iniquity was there.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 27.3.4.</hi>
+               </bibl>
+               <p>A ſtone is heavie, and the ſand weighty, but a fooles wrath is heavier then both, wrath is cruell, and anger is outragious, but who is able to ſtand before envie?</p>
+               <p>The words of David unto Jonathan when he conſulted with him for his ſafety, <bibl>
+                     <hi>1 Sam. 20.8</hi>
+                  </bibl> Thou therefore ſhalt deale kindly with thy ſervant, for thou haſt brought thy ſervant into a Covenant of the Lord with thee. Notwithſtanding if there be iniquity in me <hi>(if there be miſdemeanor in me)</hi> ſhay me thy ſelf <hi>(judge me your ſelf)</hi> for why ſhouldeſt thou bring me to thy father <hi>(why ſhould you bring me, or leave me to the wrath of your enemies.)</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 31.8, 9.</hi>
+               </bibl>
+               <p>Open thy mouth for the dumb, in the cauſe of all ſuch as are appointed for deſtruction. Open thy mouth, iudge righte<g ref="char:EOLhyphen"/>ouſly, and plead the cauſe of the poor and needy.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Zach. 11.laſt.</hi>
+               </bibl>
+               <p>Woe be to the idol ſhepherd that leaveth the flock: the ſword ſhall be upon his arme, and upon his right eye: his arme ſhall be cleane dryed up, and his right eye ſhall be utterly darkned.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:32991:2"/>
+            <pb facs="tcp:32991:2"/>
+            <head>To the honourable Houſe of Commons aſſembled in Parliament. The humble Petition of <hi>Robert Heblethwaite,</hi> ſometimes Preacher of the Word at Great <hi>Snoring</hi> in <hi>Norfolke.</hi>
+            </head>
+            <p>
+               <hi>Sheweth,</hi>
+            </p>
+            <p>THat your Pititioner being by the Order of the Right Ho<g ref="char:EOLhyphen"/>nourable the Earl of <hi>Man<g ref="char:EOLhyphen"/>cheſter,</hi> eſtabliſhed in the poſſesſion and rights of the <hi>parſonage</hi> of the ſaid <hi>Snoring,</hi> hath ſince (by the diſlike and unjuſt pro<g ref="char:EOLhyphen"/>ceedings of the Committee of that County, as alſo (in further reference to them) by the proſecution, ſubornation, and ſeverall malicious practiſes of divers other Malignant Perſons, by the ſpace
+<pb facs="tcp:32991:3"/>of 4. yeares, and by their ioynt and ſeverall plots, and contrivances (as may more fully appeare in a humble Narrative hereuto annexed) not only been eiected moſt frequently from his poſſeſſion and officiating therein; but hath alſo (beſides their cuſtomary ſeizure of his Tythes and profits to their own uſe, as much as in them lay) been ſcandalizd in his function, abuſed in his credit and reputation, ingaged in an unneceſſary and to<g ref="char:EOLhyphen"/>tall expence of his eſtate and fortune, and finally (as neare as they could by many uniuſt and vil<g ref="char:EOLhyphen"/>lanous ſuggeſtions they have indeavoured the taking away of his verie life, to the eternall oblo<g ref="char:EOLhyphen"/>quie and diſgrace of Your Petitioner.</p>
+            <p>
+               <hi>The Premiſes conſidered, his humble ſupplication is, that this honourable Houſe would be pleaſed to take into their grave and ſerious conſiderations, your Pe<g ref="char:EOLhyphen"/>titioners ſad and diſtreſſed condition, and to relieve him againſt his oppreſſors, as the iuſtice of his cauſe may truly require.</hi>
+            </p>
+            <closer>And your Petitioner ſhall ever pray, &amp;c.</closer>
+         </div>
+         <div type="narrative">
+            <pb n="1" facs="tcp:32991:3"/>
+            <head>The Narrative to the honourable Houſe of Commons, &amp;c.</head>
+            <p>THat the neceſſirie, juſtice &amp; conſcience of the Par<g ref="char:EOLhyphen"/>liaments Armes did ingage me with the firſt (acording to my intereſt &amp; calling) both in pri<g ref="char:EOLhyphen"/>vate and publique, to their abetment and vindi<g ref="char:EOLhyphen"/>cation) is a thing to be manifeſted with a large and ampie cloud of witneſſes, eſpecially in <hi>Linne,</hi> during the Siedge whereof, my ſufferings by the adverſe party were heavie upon me. And however the malignity and vitious conditi<g ref="char:EOLhyphen"/>on of my adverſaries, hath indeavoured with all poſſible paines and ſubtilty, to traduce my credit, abuſe my function, ingage me to the expence of that private meanes which God had bleſt me with, which was an annuity of 30. l. <hi>per an.</hi> in <hi>Linne</hi> and debarring me (as much as in them lay) from the injoying of that generall Salary, to which I was Lawfully appropriated, and into which I was legally inducted; yet I make no doubt ſo clearly to evidence my right and integrity, both in the acquiſi<g ref="char:EOLhyphen"/>tion and proſecution of my <hi>Title</hi> to the <hi>Parſonage;</hi> as it will not only produce an eaſie conceſſion to the truth and juſtice of my deſires; but will alſo returne both ſhame and infamy in their faces, who ſo violently endeavoured the procurement of my utter ruine and diſgrace.</p>
+            <p>To make this appeare, requires a look back to the very foun<g ref="char:EOLhyphen"/>dation of my intereſt, which did thus commence.</p>
+            <p>In <hi>Deeem.</hi> 1643. the right hononrable the <hi>Earle of Mancheſter</hi> (being ſufficiently ſatisfied, not only in my abilities as to the Mi<g ref="char:EOLhyphen"/>niſtry, but alſo in
+<pb n="2" facs="tcp:32991:4"/>my aſſured and conſtant affection to the Parliament, by ſeve<g ref="char:EOLhyphen"/>rall teſtimonies both of the well affected Clergie, and Gentry in <hi>Linne</hi> and thereabouts) did immediately iſſue an Order for my poſſeſſion and ſettlement in the ſaid <hi>Parſonage;</hi> which hath and will be fully teſtified by <hi>Col. Wanton</hi> (a Gentleman of undoub<g ref="char:EOLhyphen"/>ted credit and repute) In which I had not long enjoyed my ſelf, before the County Committee did ſummon me to ſhew cauſe, why I poſſeſſed my ſelf of the ſaid <hi>Sequeſtration,</hi> and officiated and took to my uſe the <hi>Parſonage</hi> Houſe, and Barn of Corne. To which my only anſwer, was a preſentation of them with the Order of the <hi>Conlonel;</hi> whereunto they ſaid, that Or<g ref="char:EOLhyphen"/>der was their ſecurity, and thereupon did not only keep it, but alſo made ſeiſure of the Barne of Corn, yet did not prohibit me to officiate.</p>
+            <p>In this beginning of trouble, my only &amp; proper addreſſe was to <hi>Col. Wanton;</hi> (who after my recitall of ſeverall paſſages with the Committee) was pleaſed to repoſſeſſe me of the Corne, in the threſhing whereof I proceeded as before; but the Commit<g ref="char:EOLhyphen"/>tee (being no wayes willing to leave their pretenſion of an in<g ref="char:EOLhyphen"/>tereſt therein) after they had ſent for me againe, deſired to know, whether I would rely on them, or the <hi>Col.</hi> for my further eſtabliſhment; to whom I relpyed: upon the <hi>Co.</hi> to which though they cryed <hi>God ſpeed me,</hi> yet they ſeized the barne of Corne againe.</p>
+            <p>Vpon this (my only relief being in the <hi>Col.</hi>) I repaired to him, who againe advanced me to a repoſſeſſion of the Corne, and after a ſtrong and tedious conteſt in the buſineſſe betwixt him and the Committee, about <hi>June</hi> following, the matter was referred to the <hi>Earle of Mancheſter,</hi> who returned the Ar<g ref="char:EOLhyphen"/>bitration of it totally to the <hi>Col.</hi> and he againe reſtor'd me to my former intereſt and poſſeſſion; ſo that for the preſent the controverſie was ended; but (in the interim by the misfortune and inconvenience of this contention) the vaſt fabrick of the <hi>Parſonage</hi> houſe ſubmitted to downfall; and the lead thereof (to the proportion of 6. Tun) was taken away by <hi>Col. Wanton,</hi> to make into bullets, for the uſe and ſervice of the State.</p>
+            <p>Nevertheleſſe, in <hi>March.</hi> 1644. (when the <hi>Col.</hi> left this com<g ref="char:EOLhyphen"/>mand in <hi>Linne</hi> (to my evident misfortune and diſadvantage)
+<pb n="3" facs="tcp:32991:4"/>the Committee (being willing to revive their quarrell againſt the <hi>Col.</hi> and revenge it for preſent upon my felt) did againe command my appearance, to ſhew them cauſe, why (according to the Order of the ſaid Earle) I had not paid a fifth part. To which when J came intentionally to reſolve them, they waved their ſummons in lieu whereof they produc'd and read an in<g ref="char:EOLhyphen"/>formation as related to me,<note place="margin">See Order of 8. <hi>March,</hi> 1644. The particular Orders related to this narra<g ref="char:EOLhyphen"/>tive are accor<g ref="char:EOLhyphen"/>ding to the ci<g ref="char:EOLhyphen"/>tation in the margent ex<g ref="char:EOLhyphen"/>preſſed at full in the end of the Papers.</note> and ſigned (as they pretended) by twenty of mine own Pariſhioners; wherein they charged me with the ſeizure of a barne of Corne in 1643. And with the ſale of about 7. Tuns of lead, belonging to the old &amp; ruined <hi>Parſonage</hi> houſe, &amp; whoſe downfal valued by them at 300. l they did not only lay to my charge, but did alſo demand ſecurity of me, for the rebuilding of the ſame. Wherin my innocency in the occaſi<g ref="char:EOLhyphen"/>on, became my juſtice in the refuſall. And becauſe I could not produce the <hi>Col.</hi> aforeſaid Orders for my poſſeſſion (by them as ſhamefully demanded as detained) in ſtead of relief, they com<g ref="char:EOLhyphen"/>mitted my to the cuſtody of a Trooper for a moneth, to my great charge and diſgrace, nor would they ſuffer me to go home to viſit my wife, diſtreſſed at the newes of their hard uſage of me unleſſe I would ſet my hand to an acknowledgement of a forfeiture of 300. l to the Speaker of the houſe, upon a non re<g ref="char:EOLhyphen"/>turne within 5. dayes, which I did, and for ought I know, yet remains inforce againſt me; they ſeized my profits to the value of 80. l they turned me out of my Church, not only unjuſtly, but diſgracefully; and ſuffered (if not countenanced) the entertain<g ref="char:EOLhyphen"/>ment of notorious Malignants to officiate (in my vacancy and abſence) in my proper cure.</p>
+            <p>Vpon which commitment (the Earle of <hi>Mancheſters</hi> power being then determin'd and expir'd) In <hi>Auguſt</hi> following (my injuries and indurance being above ſufferance) I made my Ap<g ref="char:EOLhyphen"/>peale to the Honourable Committee for Plunder'd Miniſters at <hi>Weſtminſter;</hi>
+               <note place="margin">See Order the 4. <hi>Aug.</hi> 1645.</note> who having received both information and ſatis<g ref="char:EOLhyphen"/>faction converning my title, they did nobly and iuſtly confirme me in it; and therewith ordered the County Committee to re<g ref="char:EOLhyphen"/>turne a Narrative, why I ſtood committed, and from whence the ſeverity uſed againſt me received occaſion? which by them was not only neglected, but in ſtead thereof Articles of infamy and ſcandall promoted, under the politicall pretenſion whereof,
+<pb n="4" facs="tcp:32991:5"/>my repoſſeſſion was delayed, and my profit detained untill <hi>June</hi> 1646 ſince when, (as alſo before) every ſlender and frivolous occaſion adminiſtred plentifull matter to them, for my further vexation and impriſonment.</p>
+            <p>For the proof whereof (amongſt the variety of affronts, (eſ<g ref="char:EOLhyphen"/>pecially in that intervaile from <hi>Auguſt</hi> 1644. <note place="margin">See the war<g ref="char:EOLhyphen"/>rant the 15. <hi>Iuly</hi> 1645.</note> untill <hi>Iune</hi> 1646. Let this one (for brevity) be the evidence and conviction o<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their inveteracy. For preſenting my ſelf to officiate on the Lords day by vertue of the fore recited Order of the 4. of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> 1645, the ſtrength of their ſpleen was ſo predominant, and they ſo remote from any ſufferance of me therein, that rather then faile they revived an antiquated warrant of their own gained while I was in <hi>London,</hi> by the authority whereof I was arreſted by one <hi>Iohn Flemming,</hi> and committed into the only and proper cuſtody of one <hi>Nich. Smith</hi> an Ale-houſe keeper, whoſe Ale-houſe for his extravagant and notorious deboiſh<g ref="char:EOLhyphen"/>ments I had formerly procured to be put down. Jn revenge whereof, the feare of my eſcape, as he pretended, ingag'd him to ſecure me with a ſtrong guard in the next roome, but in the interim afforded me a viſit, which brought this comfort only to me, to expect no more favour, then could be prepared in the Stocks or the Spitle-Houſe. In order to which the very next morning, though they failed in the manner, they did not in the matter of their calumny; for I had a Convoy to the Commit<g ref="char:EOLhyphen"/>tee, with ſtaves and ſwords and ſuch revilings, as might eaſily prompt me to the remembrance of a more primitive perſecuti<g ref="char:EOLhyphen"/>on, and conſequently ingage me with much more patience, to be ſilent and yeelding to thoſe reproaches, whoſe only end principally aimed at was a malicious expoſure of my credit and fortune, into an utter diſgrace and falling. Give me leave to al<g ref="char:EOLhyphen"/>lude to that ſaying of <hi>David.</hi> Pſ:35.15.23.25. <hi>In mine adverſit they reioyced and gathered themſelves together againſt me, yea the ab<g ref="char:EOLhyphen"/>iects gathered, themſelves together againſt me, they did tear me and ceaſed not. Stirre up thy ſelf and awake to my indgement, ever unto my cauſe,<note place="margin">See Order 4: <hi>Iune,</hi> 1646.</note> my God and my Lord, Lee them not ſay in their heart ah. ſo we would have it, let them not ſay we have ſwallowed him up.</hi>
+            </p>
+            <p>But to leave this digreſſion (as though they were reſolved to deny obedience to all manner of Rule and orders) and though ſeverall orders for repoſſeſſion and confirmation did daily iſſue
+<pb n="5" facs="tcp:32991:5"/>and were as daily cotemned: In <hi>Iune</hi> 1646. (notwitſtand<g ref="char:EOLhyphen"/>ing their pretenſion of Articles.) Yet the honourable Commit<g ref="char:EOLhyphen"/>tee for plunderd Miniſters, did order mee poſſeſſion with the Tythes in Arrears, as alſo a ſtay of proſecution, untill the ac<g ref="char:EOLhyphen"/>compliſhment of that Order; wherein my Proſecutors were likewiſe ſentenced to impriſonment.<note place="margin">See Order 4. <hi>Iune</hi> 1646.</note> But in that (as in the re<g ref="char:EOLhyphen"/>mainder) their obedience was equall, and my ſelf, as in the reſt as totally defeated, of what was legally awarded me.</p>
+            <p>Succeeding to this, was their ſeverall indictments of me, at the Seſſions at <hi>Norwich,</hi> their ſuits at law to exigents, their ſeverall procureme<g ref="char:cmbAbbrStroke">̄</g>ts of me under the cuſtody of the Marſhal at <hi>Norwich,</hi> and their neglect or rather waving of their Articles upon the validity of which they durſt not depend; yet (rather then want an aggravation) they ingag'd one <hi>Devil</hi> in my proſecution, upon a preſentation that had reference to the death of Mr. <hi>Dobbs</hi> the outed Delinquent; but the pretence of that was ſo viſibly delu<g ref="char:EOLhyphen"/>ſive, that the Committee being convinced, &amp; the ſaid <hi>Devil</hi> not daring to appeare,<note place="margin">See Order 13. <hi>Sept.;</hi> 1646.</note> I had a diſmiſſion and confirmation there<g ref="char:EOLhyphen"/>upon.</p>
+            <p>Yet the practiſes of this <hi>Devill</hi> were rather altered then de<g ref="char:EOLhyphen"/>termined. For his ſecond ſummons cald me <hi>(coram)</hi> againe up<g ref="char:EOLhyphen"/>on a preſumption of a Lapſe by the ſaid Delinquents non reſi<g ref="char:EOLhyphen"/>dence, which comming to a hearing the 8. of <hi>May</hi> following, and <hi>Devill</hi> neglecting this as the former, it was deferred to the next 11. of <hi>Iune,</hi> and in the interimmy ſelf was ordered to of<g ref="char:EOLhyphen"/>ficiate and receive profits: which day being come, ſtill <hi>Devill</hi> did play the leaſt in ſight; yet with a naturall and fraudulent ſubtilty, by the aduantage of my abſence. he poſſeſſed himſelfe by order from the Biſhop of the Dioceſſe, and challenged the tythes of the Pariſhioners with great threatnings and (to keepe me the better from the hearing of my cauſe, or the ap<g ref="char:EOLhyphen"/>pearing at my cure) the height of their malice, brake in upon me: for <hi>Nicolas Smith</hi> (the former recited proſecutor of mine) being made an inſtrument for the ſubornation of one <hi>Jo. Atkins</hi> of <hi>London,</hi> his main part and agency was layd in the proſecution of me upon an inditement at the Seſſions in the old Bayly, for words pretended to be ſpoken againſt the King, two yeares be<g ref="char:EOLhyphen"/>fore the proſecution, for which I was committed to <hi>Newgate</hi>
+               <pb n="6" facs="tcp:32991:6"/>the 14. of <hi>Iuly</hi> laſt, fined a 100. l. and impriſoned during the Kings pleaſure, and being once confined, there needed no inſti<g ref="char:EOLhyphen"/>gation for the reviving of their Dormant articles, in the ſtrange and unheard of proſecution of which, it is obſervable that on the 16 of that inſtant <hi>Iuly</hi> while I was abſent both in perſon and councell, was their day of hearing, againſt the juſtice of no<g ref="char:EOLhyphen"/>tice or Summon'; that the Articles were not at all tranſmitted; that neither a defence or a croſſ-examination was at all put in; And that the Narrative (ſo long before Commanded) was not returned, which is courſe ſhould have preceded all the former charges, by the recited Order of the 4 of <hi>Auguſt;</hi> by which unjuſt and indirect proceedings, a Sequeſtration (The only means to expoſe me to an utter impoſſibility of ſubſiſting) (in a manner tacitly and ſurreptitiouſly) was gained againſt me.</p>
+            <p>For the reverſing of which, both common equity and my proper intereſt, became my civill inſtigation; in order to which (after 13. weeks impriſonment) upon my motion to the Com<g ref="char:EOLhyphen"/>mittee for plundered Miniſters my proſecutors were accor<g ref="char:EOLhyphen"/>dingly ſummoned to make their appearance the 9. of <hi>November</hi> following,<note place="margin">See Order. 23. <hi>October.</hi>
+               </note> to ſhew cauſe why the order of ſequeſtration ſhould not be reverſed; wherin as they neither did not could depend up<g ref="char:EOLhyphen"/>on other reaſon, then the Articles themſelves, ſo the ſequenſtrati<g ref="char:EOLhyphen"/>on was illegally procured, and therefore ought in all conſcience and reaſon to be made null.</p>
+            <p>And becauſe upon the Hindg of this, the eſſence of my cauſe hath materiall motion; it cannot be amiſſe (as ſhortly as may be) to exhibit my Reaſons for the fuller light, and inforcement thereof.</p>
+            <p>Firſt the Articles (their only plea) were notoriouſly falſe, the witneſſes ſuborn'd, and once ſuppreſſ'd; and therfore the ſequeſ<g ref="char:EOLhyphen"/>tration procured upon them was by evident ſuppriſall, and by the advantage of my impriſonment, as formerly I have noted.</p>
+            <p>Secondly, admit the articles true; yet is it juſtice to reverſe that Order, becauſe it croſſes, and is meerely antipode to the Cuſtome, the Practiſe and Judgment of that honourable Committee.</p>
+            <p>Firſt, the cuſtome, becauſe their proceedings are in courſe,
+<pb n="7" facs="tcp:32991:6"/>and in courſe there was a Narrative to precede the Articles in order whereunto (when I made a punctuall complaint of my wrongs) and from the gratious conſideration of them by that honourable Committee a narrative was not only commanded, but demanded from the Committee of the Country, they tho<g ref="char:EOLhyphen"/>row Art or diſability neglected the Narrative, and exhibited Articles; and ſo conſequently not only perverted the foreſaid cuſtome, but by that and their former tedious preventions, per<g ref="char:EOLhyphen"/>verſion, and anticipations, &amp;. have unavoidably ingaged me into the expence of at leaſt 500 l</p>
+            <p>Secondly, the juſtice, becauſe it is the conſtant practice of that honourable Committee, to retract and reverſe all ſurreptiti<g ref="char:EOLhyphen"/>ous and ſtolne Orders, upon a hearing of one ſide only; upon Councell on one ſide only; or in the abſence of the Defendant. In all which three Particulars it is palpably viſible, I was againſt my will a wanting;<note place="margin">See Order the 29. <hi>Ian.</hi> 1645.</note> by the working of their ſubtilty and confe<g ref="char:EOLhyphen"/>deracy.</p>
+            <p>Thirdly, the judgement, for when the profits, and the poſſeſ<g ref="char:EOLhyphen"/>ſion of the Parſonage were violently detained and kept from me; it was he judgement of that honourable Committee (in my proper right and regard) that notwithſtanding the Arti<g ref="char:EOLhyphen"/>cles were objected,<note place="margin">See Order 4. <hi>Iune</hi> 1646. See Order the 8. <hi>May.</hi> 1646.</note> yet preſent obedience ſhould firſt be given to their former Orders, for poſſeſſion and profits detained. Nor was it the controverſie in hand, I being to ſhew cauſe only a<g ref="char:EOLhyphen"/>gainſt a title claimed by Mr. <hi>Devill,</hi> as by order of the 8. of <hi>May</hi> appeares.</p>
+            <p>Finally, upon the 16. of <hi>Novemb.</hi> laſt, the cauſe arrived at a kind of hearing, wherein the Sequeſtrators (as in the totall progreſſe of the buſineſſe) exalted their ſubtilty and induſtry in<g ref="char:EOLhyphen"/>to all the vatious ſhapes and evaſions, that could poſſibly be ex<g ref="char:EOLhyphen"/>pected from the utmoſt cunning of ſuch artificers: for they had not only made proviſion of ſome very ſtrong and powerfull friends within the Houſe for their further incouragement and countenance; but their other myſteries and inticracies did work in ſo hidden and obſcure meanes, that (though the face of truth was palpably ore'clowded) it ſtill ſupaſ'd all poſſible ſcrutiny of mice, to tender her beauty and vigor cleare, or otherwiſe to ex<g ref="char:EOLhyphen"/>plicate their other Engines. For in ſtead of pertinencies to the
+<pb n="8" facs="tcp:32991:7"/>matter, they quaintly flew to the queſtioning of my title, ſo of<g ref="char:EOLhyphen"/>ten reſolved, not only by the recited, but alſo by many other orders; by a ſtrange putting me upon the proof of <hi>Dobbs</hi> his Sequeſtration; by ſeverall myſterious and queſtionable teſtimo<g ref="char:EOLhyphen"/>nies of theirs; and by the utter over ballancing and ſuppreſſing of thoſe more pregnant truths, which I both offer'd, and had ready for my vindication. Nay, which heightned my grief, and their Malignancy, the Delinquent <hi>Dobbs</hi> (though preſent there upon command) was not ſo much as queſtioned for his con<g ref="char:EOLhyphen"/>tempts, meerly by favour of my adverſaries procuring; a dan<g ref="char:EOLhyphen"/>gerous diſcouragement to well affected and honeſt men, and too great a promotion to ſuch pernitious, turbulent and Anti-Par<g ref="char:EOLhyphen"/>liamentary ſpirits. And now oh the ſcornefull inſults of an un<g ref="char:EOLhyphen"/>godly and reprobate enemy! Give leave humbly to adviſe with <hi>Salomon,</hi> Prov. 22.10 <hi>Caſt out the ſcorner, and contention ſhall goe out, yea ſtrife and reproach ſhall ceaſe.</hi>
+            </p>
+            <p>To conclud at length, by their only ſubtilty, I was conſtrain'd to joyn iſſue, to make defence &amp; croſſe examin; but in regard of the extremitie &amp; ſenſe of my poverty (having expended al my temporal Eſtate my ſpiritual being ſequeſtred, &amp; my Tythes in arrears in my adverſaries hands, and more executions for treſ<g ref="char:EOLhyphen"/>paſſes, and another proſecution by indictment, for words a<g ref="char:EOLhyphen"/>gainſt the King (as I am credibly informed, and timely adverti<g ref="char:EOLhyphen"/>ſed) ready to be impoſed upon me at my firſt arrivall into <hi>Nor<g ref="char:EOLhyphen"/>folke,</hi> I am totally diſabled for the preſent in, and ſhall be debar<g ref="char:EOLhyphen"/>red for the future from any further proſecution.</p>
+            <p>I confeſſe my rights are granted me by Orders from that ho<g ref="char:EOLhyphen"/>nourable Committee for plundered Miniſters,<note place="margin">See order 23. Octo. 1647.</note> but yet with ſo eaſie and mild a demand <hi>(viz, the Sequinſtrators are required to pay)</hi> that my crafty adverſaries (inurd to the gaine) will rather afford them their (come then obedience; nay, I am confident, that preſuming upon their aid and protection, which they doe expect, and have not wanted from ſome in the Houſe it will ſooner move their laughter then their feare: having done ſo formerly, and told me to my face, they would not give obedi<g ref="char:EOLhyphen"/>dience to the orders, but bad me in more uncivill language make them uſefull for my back ſide.</p>
+            <p>Notwithſtanding all which injuſtice of their protectors, and
+<pb n="9" facs="tcp:32991:7"/>all their other recited pollicies, circumventions, contempts, opreſſions and unparaleld ſevere dealings with me, they cannot pull down my hope, though they have my fortune, nor ſhall they aftright me out of my principles, thogh they have bereav'd me of my eſtate. Which are to <hi>doe the law of my God, and the law</hi> of the Parliament of England <hi>even un<g ref="char:EOLhyphen"/>to death,</hi> having already taſted of <hi>Baniſhmens, viz.</hi> Sequeſtiation, <hi>confiſ<g ref="char:EOLhyphen"/>cation,</hi> viz. <hi>ſeizure of goods, and impriſonment.</hi> The law (I ſay) of the Parliament of England, ſmeane that law. 1. in opoſition to the law and perſonall command of the King, in this diſtance and eſtrangement hoth of perſon and mind, from his great Councell in Parliament. 2. The law in diſtinction from the law of will and pleaſure. And 3. The law in expoſition by all the learned, radically, fundamentally, and ſu<g ref="char:EOLhyphen"/>perlatively the law of the Realme or kingdome of England, viz. <hi>Mag<g ref="char:EOLhyphen"/>na Charta, and the Petition of Right.</hi>
+            </p>
+            <p>Now for the preſent raiſing both of my hope and fortune &amp; for that duty which I owe to truth and a good conſcience, as I doubt not but to make manifeſt the particular charges of miſdemeanors in this Nar<g ref="char:EOLhyphen"/>rative, ſo I feare not by the ſerious conſideration of them in the judg<g ref="char:EOLhyphen"/>ment and prudence of this Honourable Houſe, but to obtaine that juſtice from your hands, which will not only reſolve my eſtabliſhment in my rights, the conſideration of my loſſes, and the reparation of my credit, but will likewiſe impoſe ſo iuſt a puniſhment upon my adver<g ref="char:EOLhyphen"/>ſaries, and al their accomplices, as wil forever deter them for the fu<g ref="char:EOLhyphen"/>ture from all attempts of any ſuch nature or condition.</p>
+            <closer>
+               <signed>Robert Heblethwait.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <p>
+               <hi>Whereas there are ſeverall inſtances in this Narrative, that have relati<g ref="char:EOLhyphen"/>on in generall, to the Committee at</hi> Norwith, <hi>it is to be underſtood only of particular perſons therein, to whom it properly refers, and whom the Autherfor beares to publiſh till further order.</hi>
+            </p>
+         </div>
+         <div type="orders">
+            <p>The ſeverall Orders related to the Narrative are as follow.</p>
+            <div type="order">
+               <opener>
+                  <dateline>At the ſtanding Committee at <hi>Norwith,</hi> 
+                     <date>
+                        <hi>March</hi> 8 1644.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>VVHereas the eſtate of</hi> Edw. Dobbs; <hi>of great.</hi> Snoring, <hi>Cler. par<g ref="char:EOLhyphen"/>ſon of the ſaid town, by order from the Sequeſtrators, bearing date the</hi> 22. <hi>of</hi> July, 1643. <hi>was ſeized and ſequeſtred for the uſe of the State, and thereupon</hi> John Flemming <hi>and others had undertaken to pay and anſwer the State one hundred pounds</hi> per an, <hi>for the Tythes only of the ſaid parſonage, which was really worth</hi> 120 l per an. <hi>and out of ſurplaſage they were on ſatisfie themſelves for the collecting thereof, and after wards one</hi> Robert Heb<g ref="char:EOLhyphen"/>lethwait,
+<pb n="10" facs="tcp:32991:8"/>
+                  <hi>cler.</hi> (<hi>before the ſaid</hi> Dobbs <hi>was ejected</hi>) <hi>upon or about the</hi> 7. <hi>day of</hi> Decemb. 1643 <hi>by the aid and aſſiſtance of a Troop of Horſe, under the command of</hi> Cap. Liev. Coxon, <hi>by foroe ſeized all the goods, ſeized and tur<g ref="char:EOLhyphen"/>ned out the wife &amp; children of the ſaid</hi> Dobs <hi>out of poſſeſſion of the Parſonage &amp; ſince his coming into poſſeſſion, hath ſuffered or cauſed the trees that ſtood for defence of the parſonage houſe to be ſtubbed up, &amp; about</hi> 7. <hi>Tun of lead that was for the covering of part of the parſonage houſe, to be taken of carried away, and the planchers of part of the Houſe to be taken up, and hath ſince his comming made ſuch a devaſtation, as (by the teſtimony of about</hi> 20. <hi>of the pa<g ref="char:EOLhyphen"/>riſh</hi>) 300. <hi>l will not make the parſonage in ſo good condition, at it was when he came thither, and ſince that time he hath preached very ſeldome, and being cal<g ref="char:EOLhyphen"/>led before us, pretendeth no other title then his poſſeſſion given as aforeſaid, and his allowance thereof from Col.</hi> Wanton, <hi>but ſhewes nothing under the Col. hand to warrant the ſame. Whereupon, We doe order that</hi> Iohn Flemming, <hi>and</hi> Richard Newton, <hi>the formes Sequeſtrators ſhall ſecure all the profits of the ſaid parſonage in the barne or elſewhere, and ſhall allow the wife of the ſaid</hi> Dobbs <hi>for her and for her children, one fiſt part due to her, and out of the foure parts remaining, to pay all the duties due to the Parliament for the ſaid foure parts, and provide an able man to ſerve the cure, and that untill the ſaid</hi> Heblethwait <hi>ſhal give ſecurity to anſwer for the goods ſeized by him, belonging to the State, and to repaire the waſts made by him in the parſonage houſe, and pay the arrears due to the wife of</hi> Doobs <hi>for the fift part, he ſtands committed by order of this Committee.</hi>
+               </p>
+               <closer>
+                  <signed>Signed by ſeverall Committees.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <opener>
+                  <dateline>
+                     <hi>At</hi> the Committee for plundered Miniſters, <date>
+                        <hi>Auguſt</hi> 4. <hi>An. Do.</hi> 1645.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>VVHereas</hi> Robert Heblethwait <hi>was by the right honourable the Earle of</hi> Mancheſter <hi>nominated and appointed to the Church of</hi> Snoring, <hi>in the County of</hi> Norfolke, <hi>ſince when, as this Committee is informed be hath been impriſoned, and other ſevere courſes have been taken with him. This Committee doe therefore deſire the Committee of Parliament ſitting at</hi> Norwich, <hi>to make a narriative of the caſe depending before them, concerning him, and what proceedings there have been againſt him, and for what. And in the meane time, this Committee think fit and accordingly order, that he ſhall continue in, and inioy the ſaid living and Church, according to the order of the ſaid Earle in that behalfe.</hi>
+               </p>
+               <closer>
+                  <signed>Gilb. Millington.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <opener>
+                  <dateline>At the Committee for plunder'd Miniſters, <date>
+                        <hi>Junii</hi> 4. <hi>Ann. Dom.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>THe cauſe concerning the contempt of</hi> John Flemming, Rich Newton <hi>and</hi> Nich. Smith <hi>of</hi> great Snoring, <hi>to the Orders of this Committee complained of by</hi> Mr Heblethwait, <hi>Miniſter of great</hi> Snoring <hi>in the Coun<g ref="char:EOLhyphen"/>ty
+<pb n="11" facs="tcp:32991:8"/>of</hi> Norfolke, <hi>comming into conſideration in the preſence of Councell on both ſides, it appeareth that notwithſtanding ſeverall Orders of this Committee, the ſaid</hi> Mr. Heblethwait <hi>is kept out of poſſeſſion of the ſaid Rectory, and the pro<g ref="char:EOLhyphen"/>fits thereof detained from him,, in defence whereof, it is alleadged, that the ſaid</hi> Mr. Heblethwait, <hi>hath no right to the ſaid Rectory; and that there are Articles of miſdemeanor depending againſt him, and a day is prayed for the hearing of the whole buſineſſe on both ſides, notwithſtanding Which this Com. think fit, that obe<g ref="char:EOLhyphen"/>dience be firſt given to the Orders of this Com. and doe therefore certifie the afore<g ref="char:EOLhyphen"/>ſaid contempt to the Com. of Examinations, to the end, that the ſaid parties may be and ſtand committed till the poſſeſſion of the ſaid Rectory be given to the ſaid</hi> Mr. Heblethwait, <hi>and ſatisfaction made for his ſaid proſits detained, as afore ſaid from him, for the better aſcertaining whereof, this Com. doe referre it to Sir</hi> Antho. Jrby, <hi>Sir</hi> Will. Maſham, <hi>and</hi> Col. Wauton, <hi>or any two of them, who are deſired upon hearing of bath ſides, to value and aſcertaine the ſame, as to juſtice ſhall appertaine.</hi>
+               </p>
+               <closer>
+                  <signed>Har. Grimſtone.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <opener>
+                  <dateline>At the Committee for plunder'd Miniſters, <date>
+                        <hi>Ianuar.</hi> 29. <hi>An. Dom.</hi> 1645.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>VPon hearing of councell on both ſides this day in the cauſe of</hi> M. Heblethwait <hi>Miniſter of</hi> Snoring, <hi>in the county of</hi> Norfolke, <hi>who was put in by the Earle of</hi> Mancheſter, <hi>It is ordered that the former order of this</hi> Com <hi>of the</hi> 6. <hi>of</hi> Ianuar. <hi>laſt, whereby the cauſe is referred to the examination of the</hi> Com. <hi>of Parliament ſitting at</hi> Norwich <hi>for the ſaid County, being obtained upon hea<g ref="char:EOLhyphen"/>ring of one ſide only, and in the abſence of the ſaid</hi> Mr. Heblethwait <hi>be retracted &amp; reverſed, &amp; wheras it is deſired in the behalf of the pariſh, that this Com. would examine the cauſe, and the witneſſes therin themſelves, this</hi> Com. <hi>do think fit and order, that the ſame be referred to the</hi> Com. <hi>for the Aſſociation, ſitting at</hi> Cam<g ref="char:EOLhyphen"/>bridge, <hi>who are deſired to heare and examine the parties and witneſſes on all ſides according to the former order of this</hi> Com. <hi>of the</hi> 27. <hi>of Decemb. laſt, and to certifie the ſame.</hi> And <hi>the ſaid</hi> Mr. Heblethwait <hi>is in the meane time to inioy the ſaid Rectory, and profits thereof, this</hi> Com. <hi>expecting all due obedience to bee given to the former orders of this</hi> Com. <hi>by the</hi> Com. <hi>of Sequeſtrations, and all other perſons concerning the ſame, and that the profits taken by the ſaid</hi> Com. <hi>of ſequeſtration be by them upon ſight hereof reſtored to the ſaid</hi> Mr. Heblethwait.</p>
+               <closer>
+                  <signed>Gilbt. Millington.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <opener>
+                  <dateline>At the Com. for plundered Miniſters, <date>
+                        <hi>Octob.</hi> 23. <hi>Anno Dom.</hi> 1647.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>VPon conſideration had of the Petition of</hi> Rob. Heblethwait, <hi>from whom the Rectory of great Snoring, in the county of</hi> Norfolk <hi>is ſequeſtred, for that it appeareth to this</hi> Com. <hi>that the ſaid</hi> Mr. Heblethwait <hi>was priſoner in</hi> Newgate <hi>upon the</hi> 16. <hi>of</hi> July <hi>laſt, when the ſaid cauſe concerning him, was heard before this</hi> Com. <hi>and that he could not be himſelf preſent at the ſaid hearing. It is ther<g ref="char:EOLhyphen"/>fore ordered that</hi> Rich. Newton, Iohn Fleming, <hi>ana</hi> Nich. Smith, <hi>the ſeque<g ref="char:EOLhyphen"/>ſtrators
+<pb n="2" facs="tcp:32991:9"/>of the ſaid Rectory ſhall have liberty to ſhew cauſe before this</hi> Com. <hi>on the</hi> 9. <hi>of</hi> Novemb. <hi>next, wherfore the ſaid order ſhould not be reverſed. And its further ordered, that notwithſtanding the ſaid ſequeſtration, the ſaid</hi> Mr. Heb<g ref="char:EOLhyphen"/>lethwait <hi>ſhall have a proportionable part of the laſt harveſt proſits of the ſaid Rectorie for ſuch time as he ſerved the cure of the ſaid Church for that yeare, and that be ſhall have all other the tyths and profits of the ſaid Rectorie, before then due fo<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> the time that he officiated the ſaid cure, which the ſaid ſequeſtrators are re<g ref="char:EOLhyphen"/>quired so pay unto him, or to ſhew cauſe to the contrary on the ſaid</hi> 9. <hi>of</hi> Novemb. <hi>And for that this</hi> Com. <hi>is informed, that</hi> Mr. Dobbs <hi>the former ſequeſtred Miniſter is entertained into the ſaid Church and Rectorie, ſince the ſaid ſeque<g ref="char:EOLhyphen"/>ſtration &amp; officiateth the ſaid cure in contempt of the ſequeſtration of the ſaid re<g ref="char:EOLhyphen"/>ctorie from him, it is ordered that the ſaid</hi> Mr. Dobbs <hi>do make his perſonall ap<g ref="char:EOLhyphen"/>pearance before this Committee on the ſaid ninth day of</hi> Novem. <hi>to anſwer his ſaid contempt at his perill.</hi>
+               </p>
+               <closer>
+                  <signed>William Purefoy.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <opener>
+                  <dateline>
+                     <hi>At the Committee for plundered Miniſters</hi> 
+                     <date>September 22. 1646.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Whereas it is averred before this Committee, that</hi> Mr. Dobbs <hi>from whom the Rectory of great</hi> Snoring <hi>in the County of Norfolk is ſequeſtred is yet living, and that therefore the claime of</hi> Cha. Devil Cle. <hi>to the ſaid rectory by vertue of a pre<g ref="char:EOLhyphen"/>ſentation ther of from the patron is deluſory, upon pretence of the ſaid</hi> M. Dobs <hi>his death, the ſaid M</hi> Devil <hi>being called maketh no appearance according to order, although the day for hearing was appointed upon his petition, this</hi> Com. <hi>do there<g ref="char:EOLhyphen"/>fore diſmiſſe the ſaid cauſe, and confirme the ſaid Mr.</hi> Heblethwait <hi>in the ſaid Rectorie, and the ſequeſtration thereof.</hi>
+               </p>
+               <closer>
+                  <signed>Gilbt. Millington.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <opener>
+                  <dateline>At The Com. for plunderd Miniſter. <date>
+                        <hi>May</hi> 8. 1647.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>The cauſe coming to hearing between</hi> Mr. Devill and Mr. Heblethwait <hi>Mini<g ref="char:EOLhyphen"/>ſters of the Word, concerning the Rectory of</hi> Snoring <hi>in the County of</hi> Norfolk <hi>according to the order of the</hi> 23. <hi>of</hi> Mar. <hi>laſt, it is ordered, that the ſaid hearing be deferred untill the eleaventh day of</hi> June <hi>next, on which day this Committee do a<g ref="char:EOLhyphen"/>point to heare and determin the whole cauſe on both ſides, and it is ordered, that the ſaid</hi> Mr Heblethwait <hi>do continue and enjoy the quiet and peaceable poſſeſſion of the ſaid Rectory and the profits thereof in the meane time, and he is diſcharged from any further attendance upon the ſaid order of the</hi> 23 <hi>of</hi> March <hi>laſt.</hi>
+               </p>
+               <closer>
+                  <signed>Bt. Knightly.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <p>Whereas a warrant iſſued from the Committee rquiring <hi>Robert Heble<g ref="char:EOLhyphen"/>thwait</hi> Clerk to appear before the ſtanding Committee ſitting at <hi>Norwich,</hi> &amp; he hath refuſ'd to obey the ſaid warrant, theſe are to wil &amp; require you forthwith to apprehend the ſaid <hi>Robert Heblethwait,</hi> and to bring him be<g ref="char:EOLhyphen"/>fore the Committee ſitting at <hi>Norwich,</hi> to anſwer for his ſaid refuſall and ſuch other things as ſhall be objected againſt him.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Iuly</hi> 15. 1645.</date>
+                  </dateline>
+               </closer>
+               <trailer>To the chief Conſtables of <hi>North green how,</hi> and to the Conſtables of <hi>New Walſingham,</hi> and great <hi>Snoring,</hi> and to every of them.</trailer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
